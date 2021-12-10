@@ -5,4 +5,4 @@ Thank you
 :)
 
   Ok! 
-  Good bye.
+  Good bye!
